@@ -1,7 +1,9 @@
 <h1 align="center">Hi I'm Melika! 👋</h1> 
 <h3 align="center">🌷 Software Developer / CodeClan Graduate 🌷</h3>
 
-I graduated CodeClan/CodeBase's 16 Week Software Development Course in November 2023. During the course I completed 3 projects; Python Solo Project (TravelBucketList), React Group Project (event_diary), Capstone Group Project (DRAMM_Synthesizer). Prior to the course, I studied NC and HNC Computer Games Development at college where I achieved an A.
+I graduated CodeClan/CodeBase's 16 Week Software Development Course in November 2023. During the course I completed 3 projects; Python Solo Project (TravelBucketList), React Group Project (event_diary), Capstone Group Project (DRAMM_Synthesizer).
+
+Prior to the course, I studied NC and HNC Computer Games Development at college where I achieved an A.
 
 - 📫 How to reach me **2melika.smith2@gmail.com**
 
